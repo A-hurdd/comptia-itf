@@ -22,7 +22,7 @@ Other devices such as hard drives and ower supplies are attatched with their own
 - Back-panel connectors
 - Front-panel connectors
 
-* > ATX Stands for Advanced Technology Extended*
+ > *ATX Stands for Advanced Technology Extended*
 
 ### Form Factors
 Micro ATX and ITX are specifically designed to be paired with low-wattage power supplies to reduce the ammount of heat produced by the computer. Because these two are smaller they also offer fewer options for adding expansion cards vs the ATX design.
@@ -34,7 +34,7 @@ A chipset is a collection of chips or circuts that perform interface and periphe
 It generally dictates how how the mothernoard will communicate with the installed peripherals.
 
 ### Northbridge and Southbridge
-* > Chipsets can usualy be divided into two major groups Northbridge and Southbridge*
+> *Chipsets can usualy be divided into two major groups Northbridge and Southbridge*
 
 ***Northbridge***
 
@@ -42,5 +42,12 @@ The Northbridge subset of a motherboards chipset performs one important function
 
 ***Southbridge***
 
+The Southbridge subset of chipset is responsible for providing support to the onboard slower peripherals (PS/2, parallel ports, serial ports, Serial and Parallel ATA, and so on).
+Managing their communications with the rest of the computer and the resources given to them.
+  If you are thinking about any  component other than the CPU, memory and cache, or intergrated video, the Southbridge is in charge.
+
+  ---
+  The communications between the CPU and memory occur over what is known as the *front side bus* (FSB), which is just a set of signal pathways connecting to the CPU and main memory. The *back side bus*
+  (BSB),if present is a set of signal pathways between the CPU and any external cache memory.
 
 
