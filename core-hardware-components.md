@@ -22,7 +22,7 @@ Other devices such as hard drives and ower supplies are attatched with their own
 - Back-panel connectors
 - Front-panel connectors
 
-*> ATX Stands for Advanced Technology Extended*
+* > ATX Stands for Advanced Technology Extended*
 
 ### Form Factors
 Micro ATX and ITX are specifically designed to be paired with low-wattage power supplies to reduce the ammount of heat produced by the computer. Because these two are smaller they also offer fewer options for adding expansion cards vs the ATX design.
@@ -34,7 +34,7 @@ A chipset is a collection of chips or circuts that perform interface and periphe
 It generally dictates how how the mothernoard will communicate with the installed peripherals.
 
 ### Northbridge and Southbridge
-*> Chipsets can usualy be divided into two major groups Northbridge and Southbridge*
+* > Chipsets can usualy be divided into two major groups Northbridge and Southbridge*
 
 ***Northbridge***
 
