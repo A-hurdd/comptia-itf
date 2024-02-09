@@ -25,6 +25,7 @@ Other devices such as hard drives and ower supplies are attatched with their own
 *>ATX Stands for Advanced Technology Extended*
 
 ### Form Factors
+
 Micro ATX and ITX are specifically designed to be paired with low-wattage power supplies to reduce the ammount of heat produced by the computer. Because these two are smaller they also offer fewer options for adding expansion cards vs the ATX design.
 ---
 ## Chipset
